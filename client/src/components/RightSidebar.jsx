@@ -6,7 +6,7 @@ import { AuthContext } from '../../context/AuthContext'
 import { useState } from 'react'
 import { useEffect } from 'react'
 
-const RightSidebar = () => {
+const RightSideBar = () => {
   const {selectedUser, messages} = useContext(ChatContext);
   const {logout, onlineUsers} = useContext(AuthContext)
   const [msgImages, setMsgImages] = useState([])
@@ -50,4 +50,4 @@ Logout
   )
 }
 
-export default RightSidebar
+export default RightSideBar
