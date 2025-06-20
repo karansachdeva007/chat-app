@@ -38,7 +38,14 @@
 ---
 
 ---
+###🔌 Socket.IO Features
+📡 Real-time bidirectional messaging
 
+🟢 Online/Offline user tracking
+
+🔔 Instant message delivery and typing indicators
+
+---
 ## 📁 Folder Structure
 
 ```bash
@@ -61,9 +68,4 @@
  ┣ 📜.env
 
  ---
-###🔌 Socket.IO Features
-📡 Real-time bidirectional messaging
 
-🟢 Online/Offline user tracking
-
-🔔 Instant message delivery and typing indicators
